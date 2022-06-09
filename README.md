@@ -1,4 +1,4 @@
-# Cloning
+# cloning
 
 pkg upgrade
 
@@ -16,10 +16,10 @@ pip install lolcat
 
 rm -rf Cloning
 
-git clone https://github.com/IMIN-CYBER/Cloning
+git clone https://github.com/IMIN-CYBER/cloning
 
 cd Cloning
 
 git pull
 
-python Cloning.py
+python cloning.py
